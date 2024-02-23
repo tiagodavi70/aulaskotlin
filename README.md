@@ -44,3 +44,25 @@ Leve em consideração divisão por zero.
 > 
 > Este desafio envolverá trabalhar com coleções para manter o inventário e laços ou funções de ordem superior para iterar sobre o inventário.
 
+# Aula 2
+
+[Aula 2 - Slides](https://github.com/tiagodavi70/aulaskotlin/blob/main/2%20-%20Conceitos%20B%C3%A1sicos.pdf)
+
+
+## Exercícios
+
+Escreva um programa em Kotlin que receba os dados sobre 15 pessoas: peso e idade. Ao final apresente:
+* média de peso
+* maior idade
+Se houver alguma entrada com idade menor que 12, não deve ser considerada.
+
+
+Um marciano chegou a uma floresta e se escondeu atrás de uma das 100 árvores quando viu um caçador.
+O caçador só tinha cinco balas em sua espingarda. Cada vez que ele atirava, e não acertava, é claro, o marciano dizia: estou mais à direita ou estou mais à esquerda. Se o caçador não conseguir acertar o marciano,ele será levado para Marte.
+Escreva um programa em Kotlin para este jogo, com dois jogadores, onde um escolhe a árvore em que o marciano irá se esconder, e o outro tenta acertar.
+
+## Desafio
+
+Escreva três classes em Kotlin, cada uma deve ter mais de um atributo. Crie alguns objetos com essas classes.
+
+Veja a classe [Radio](https://github.com/tiagodavi70/aulaskotlin/blob/main/Radio.kt) e a classe [Main](https://github.com/tiagodavi70/aulaskotlin/blob/main/Main.kt) para criação da classe e dos objetos.
