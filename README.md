@@ -8,6 +8,9 @@
 
 [Exercícios Extras](https://github.com/tiagodavi70/python-intro/tree/master)
 
+[Aulas de POO Online](https://www.youtube.com/playlist?list=PLr3dKaVI2v7oyLUIJKPiokNHCXzSPg3r5)
+
+
 ### Conceitos Importantes:
 * Tipos primitivos
 * Estruturas de controle e repetição
