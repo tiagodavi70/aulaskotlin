@@ -27,25 +27,25 @@ Leve em consideração divisão por zero.
 
 ### Desafio #2: Total do Carrinho de Compras
 
-> Escreva um programa em Kotlin que calcula o custo total dos itens em um carrinho de compras.
-> - Receba vários items com preços 
-> - Calcule o preço total dos itens no carrinho.
-> - Se o preço total exceder $100, aplique um desconto de 10% no total.
-> - Exiba o preço total final no console.
-> - Além disso, se houver mais de 5 itens no carrinho, aplique um desconto adicional de 5% no total já com desconto (se aplicável).
+Escreva um programa em Kotlin que calcula o custo total dos itens em um carrinho de compras.
+- Receba vários items com preços 
+- Calcule o preço total dos itens no carrinho.
+- Se o preço total exceder $100, aplique um desconto de 10% no total.
+- Exiba o preço total final no console.
+- Além disso, se houver mais de 5 itens no carrinho, aplique um desconto adicional de 5% no total já com desconto (se aplicável).
 
 
 
 ### Desafio Extra: Gerenciamento de Inventário
 
-> Escreva um programa em Kotlin que gerencia um inventário de produtos. Cada produto deve ter um nome e uma quantidade em estoque. O programa deve ser capaz de:
-> 
-> - Adicionar um novo produto com sua quantidade inicial de estoque ao inventário.
-> - Atualizar a quantidade de estoque de um produto existente.
-> - Calcular e exibir o número total de itens no inventário.
-> - Exibir os detalhes de todos os produtos no inventário.
-> 
-> Este desafio envolverá trabalhar com coleções para manter o inventário e laços ou funções de ordem superior para iterar sobre o inventário.
+Escreva um programa em Kotlin que gerencia um inventário de produtos. Cada produto deve ter um nome e uma quantidade em estoque. O programa deve ser capaz de:
+
+- Adicionar um novo produto com sua quantidade inicial de estoque ao inventário.
+- Atualizar a quantidade de estoque de um produto existente.
+- Calcular e exibir o número total de itens no inventário.
+- Exibir os detalhes de todos os produtos no inventário.
+
+Este desafio envolverá trabalhar com coleções para manter o inventário e laços ou funções de ordem superior para iterar sobre o inventário.
 
 # Aula 2
 
@@ -69,3 +69,27 @@ Escreva um programa em Kotlin para este jogo, com dois jogadores, onde um escolh
 Escreva três classes em Kotlin, cada uma deve ter mais de um atributo. Crie alguns objetos com essas classes.
 
 Veja a classe [Radio](https://github.com/tiagodavi70/aulaskotlin/blob/main/Radio.kt) e a classe [Main](https://github.com/tiagodavi70/aulaskotlin/blob/main/Main.kt) para criação da classe e dos objetos.
+
+
+## Aula 3
+
+## Desafio
+
+
+
+Escreva um programa orientado a objetos em Kotlin que faça o controle de estoque de uma loja. Em um menu deve ter as opções:
+
+* cadastrar produto
+* editar produto
+* vender pruduto
+* gerar relatório
+
+Na opção de cadastro o utilizador deve entrar com:
+* nome do produto
+* preço
+* tipo
+
+Para cada produto cadastrado deve ser gerado um código.
+Na opção de editar deve permitir atualização do nome do produto.
+Na opção vender produto deve registrar uma venda do produto.
+E na opção gerar relatório deve mostrar o valor total das vendas e a média por produto.
