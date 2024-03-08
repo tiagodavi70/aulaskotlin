@@ -1,5 +1,3 @@
-import java.util.Objects
-
 fun main() {
 
     val numeros_inteiros: IntArray = intArrayOf(1, 10, 15, -3, 4)

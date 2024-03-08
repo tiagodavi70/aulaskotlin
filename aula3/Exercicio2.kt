@@ -1,3 +1,5 @@
+// Escreva um script que dado dois vetores indique os
+// elementos que estão presentes nos dois vetores.
 
 
 fun main() {

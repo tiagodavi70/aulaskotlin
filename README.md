@@ -75,8 +75,6 @@ Veja a classe [Radio](https://github.com/tiagodavi70/aulaskotlin/blob/main/Radio
 
 ## Desafio
 
-
-
 Escreva um programa orientado a objetos em Kotlin que faça o controle de estoque de uma loja. Em um menu deve ter as opções:
 
 * cadastrar produto
@@ -93,3 +91,26 @@ Para cada produto cadastrado deve ser gerado um código.
 Na opção de editar deve permitir atualização do nome do produto.
 Na opção vender produto deve registrar uma venda do produto.
 E na opção gerar relatório deve mostrar o valor total das vendas e a média por produto.
+
+
+
+## Aula 4
+
+[Aula_4](https://github.com/tiagodavi70/aulaskotlin/blob/main/Herança e Polimorfismo.pdf)
+
+## Desafio final - etapa 1
+
+Para entrega na aula do dia 14/03. Escreva o documento em meia página levando em conta os pontos abaixo para o projeto final, para discussão em sala:
+
+### Tema
+A temática principal do projeto, destacando os pontos principais onde o sistema pode atuar, assim como a viabilidade técnica, soluções já existentes e originalidade.
+
+### Problema
+O maior problema que o sistema procurar solucionar, indicando quais os pontos fortes e fracos em comparação com soluções já existentes.
+
+### Classes
+Um descrição resumida das classes esperadas para desenvolvimento do sistema.
+
+
+## Desafio
+Escreva um sistema em Kotlin para uma organizadora de eventos. Você deve utilizar conceitos de POO para definir classes e atributos relevantes para o problema.
