@@ -49,7 +49,7 @@ Este desafio envolverá trabalhar com coleções para manter o inventário e la�
 
 # Aula 2
 
-[Aula 2 - Slides](https://github.com/tiagodavi70/aulaskotlin/blob/main/2%20-%20Conceitos%20B%C3%A1sicos.pdf)
+[Aula 2 - Slides](https://github.com/tiagodavi70/aulaskotlin/blob/main/ConceitosBasicos.pdf)
 
 
 ## Exercícios
@@ -64,7 +64,8 @@ Um marciano chegou a uma floresta e se escondeu atrás de uma das 100 árvores q
 O caçador só tinha cinco balas em sua espingarda. Cada vez que ele atirava, e não acertava, é claro, o marciano dizia: estou mais à direita ou estou mais à esquerda. Se o caçador não conseguir acertar o marciano,ele será levado para Marte.
 Escreva um programa em Kotlin para este jogo, com dois jogadores, onde um escolhe a árvore em que o marciano irá se esconder, e o outro tenta acertar.
 
-## Desafio
+## Desafio # 3
+
 
 Escreva três classes em Kotlin, cada uma deve ter mais de um atributo. Crie alguns objetos com essas classes.
 
@@ -73,7 +74,7 @@ Veja a classe [Radio](https://github.com/tiagodavi70/aulaskotlin/blob/main/Radio
 
 ## Aula 3
 
-## Desafio
+## Desafio # 4
 
 Escreva um programa orientado a objetos em Kotlin que faça o controle de estoque de uma loja. Em um menu deve ter as opções:
 
@@ -96,7 +97,7 @@ E na opção gerar relatório deve mostrar o valor total das vendas e a média p
 
 ## Aula 4
 
-[Aula_4](https://github.com/tiagodavi70/aulaskotlin/blob/main/Herança e Polimorfismo.pdf)
+[Aula 4](https://github.com/tiagodavi70/aulaskotlin/blob/main/HerancaPolimorfismo.pdf)
 
 ## Desafio final - etapa 1
 
@@ -112,5 +113,21 @@ O maior problema que o sistema procurar solucionar, indicando quais os pontos fo
 Um descrição resumida das classes esperadas para desenvolvimento do sistema.
 
 
-## Desafio
+## Desafio #5
 Escreva um sistema em Kotlin para uma organizadora de eventos. Você deve utilizar conceitos de POO para definir classes e atributos relevantes para o problema.
+
+# Aula 5
+
+[Aula 5](https://github.com/tiagodavi70/aulaskotlin/blob/main/InterfaceClasseAbstrata.pdf)
+
+# Exame modelo e entrega
+
+[Teste modelo](https://github.com/tiagodavi70/aulaskotlin/blob/main/TesteModelo.pdf)
+
+Entregar em tiagodavi70 @ua.pt os dois entregáveis:
+```
+Tema projeto final - POO
+```
+```
+Desafios 1-4 - POO
+```
