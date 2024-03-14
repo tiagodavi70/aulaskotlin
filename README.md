@@ -120,7 +120,40 @@ Escreva um sistema em Kotlin para uma organizadora de eventos. Você deve utiliz
 
 [Aula 5](https://github.com/tiagodavi70/aulaskotlin/blob/main/InterfaceClasseAbstrata.pdf)
 
-# Exame modelo e entrega
+## Exercícios
+
+### Exercício 1
+Considere um sistema de gerenciamento de funcionários. Cada funcionário pode ser um gerente ou um associado, e ambos possuem um método para calcular o bônus salarial. O bônus de um gerente é calculado como 10% do salário base, enquanto o bônus de um associado é calculado como 5% do salário base.
+
+Crie uma interface chamada Bonus com um método calcularBonus() que retorna o valor do bônus. Em seguida, crie as classes Gerente e Colaborador que implementam a interface Bonus e forneça a implementação apropriada para o método calcularBonus() em cada classe.
+
+### Exercício 2
+
+Considere um sistema de notificações para um aplicativo. O aplicativo pode enviar diferentes tipos de notificações para os usuários, como notificações por e-mail, SMS e notificações push.
+
+Defina a interface Notificador que inclui um método enviarMensagem que aceita uma mensagem do tipo String como parâmetro. Esse método não retornará nada.
+
+Implemente a interface Notificador em três classes: EmailNotificador, SMSNotificador, e PushNotificador. Cada implementação do método enviarMensagem deve imprimir uma mensagem indicando que uma mensagem foi enviada usando o respectivo método de notificação, junto com a mensagem passada como argumento.
+
+Escreva uma função main onde você cria uma lista de Notificador, adiciona instâncias de EmailNotificador, SMSNotificador, e PushNotificador a essa lista, e então itera sobre a lista enviando uma mensagem "Olá, Mundo!" usando cada método de notificação.
+
+### Exercício 3
+
+Recrie o exemplo das classes Animal com classes abstratas.
+
+
+### Exerício 4
+
+Considere um sistema para uma biblioteca que precisa gerenciar diversos tipos de itens de mídia, incluindo livros e DVDs. Use classes abstratas para criar uma estrutura base que possa ser compartilhada entre diferentes tipos de mídia.
+
+Crie uma classe abstrata chamada ItemDeMidia que contém uma propriedade abstrata nome do tipo String e um método abstrato emprestar() que não retorna nada.
+
+Implemente a classe abstrata ItemDeMidia em duas classes: Livro e DVD. Cada uma deve fornecer uma implementação específica para a propriedade nome e para o método emprestar(). O método emprestar deve imprimir uma mensagem indicando que o item foi emprestado, juntamente com o nome desse item.
+
+Escreva uma função main que cria uma instância de Livro e uma instância de DVD, atribuindo nomes aos itens, e então chama o método emprestar em cada um deles.
+
+
+## Exame modelo e entrega
 
 [Teste modelo](https://github.com/tiagodavi70/aulaskotlin/blob/main/TesteModelo.pdf)
 
