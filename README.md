@@ -167,3 +167,15 @@ Até meia noite.
 Desafios 1-4 - POO
 ```
 Até o dia da prova.
+
+
+## Aula 6
+
+[Setup Git - Tutorial](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)  
+
+[Git SCM - Cliente da linha de comando](https://git-scm.com/)  
+
+[SourceTree](https://www.sourcetreeapp.com/)  
+
+[Github Desktop](https://desktop.github.com/)  
+
