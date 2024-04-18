@@ -181,4 +181,4 @@ Até o dia da prova.
 
 # Aula 7
 
-[Respositório dos comboios](https://github.com/tiagodavi70/comboios_kotlin_2024)
+[Respositório dos comboios](https://github.com/tiagodavi70/comboios_poo_2024)
