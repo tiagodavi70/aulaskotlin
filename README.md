@@ -179,3 +179,6 @@ Até o dia da prova.
 
 [Github Desktop](https://desktop.github.com/)  
 
+# Aula 7
+
+[Respositório dos comboios](https://github.com/tiagodavi70/comboios_kotlin_2024)
