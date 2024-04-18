@@ -182,3 +182,6 @@ Até o dia da prova.
 # Aula 7
 
 [Respositório dos comboios](https://github.com/tiagodavi70/comboios_poo_2024)
+
+[Documentação Java Swing](https://docs.oracle.com/javase%2Ftutorial%2Fuiswing%2F%2F/layout/visual.html)
+
