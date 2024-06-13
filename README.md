@@ -179,9 +179,11 @@ Até o dia da prova.
 
 [Github Desktop](https://desktop.github.com/)  
 
-# Aula 7
+## Aula 7
 
-[Respositório dos comboios](https://github.com/tiagodavi70/comboios_poo_2024)
+[Repositório dos comboios](https://github.com/tiagodavi70/comboios_poo_2024)
 
 [Documentação Java Swing](https://docs.oracle.com/javase%2Ftutorial%2Fuiswing%2F%2F/layout/visual.html)
 
+## Extra
+[Vídeo de apresentação](https://youtu.be/DYGYMnqRm8g)
